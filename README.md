@@ -1,7 +1,5 @@
 # Codtech Internship Task – Voice-Controlled App Interface
 
-## Intern ID: CT04DG487
-
 ## Project Overview
 This project focuses on designing a **voice-controlled user interface** for a smart home mobile app. The interface supports commands such as “Turn off the lights” or “Set thermostat to 22°C,” offering an accessible and hands-free user experience.
 
@@ -24,6 +22,3 @@ A **Figma prototype** demonstrating detailed interaction flows based on voice co
 - Interaction flow prototyping
 - Smart home application design
 - Figma animation and layout tools
-
-## Status
-✅ Completed and submitted
